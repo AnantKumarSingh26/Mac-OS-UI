@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body,#root{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+main{
+    height: 100%;
+    width: 100%;
+    background-image: url('/public/mac-wallpaper-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
