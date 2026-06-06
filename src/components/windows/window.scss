@@ -1,0 +1,36 @@
+main {
+    position: relative;
+    overflow: hidden;
+}
+
+.window {
+    border-radius: 1rem;
+    overflow: hidden;
+    background: rgba(20, 20, 20, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(18px);
+    color: white;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+}
+
+.window__titlebar {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    height: 2.2rem;
+    padding-inline: 0.9rem;
+    cursor: move;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.window__dot {
+    width: 0.7rem;
+    height: 0.7rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.45);
+}
+
+.window__body {
+    padding: 1rem;
+    line-height: 1.6;
+}
