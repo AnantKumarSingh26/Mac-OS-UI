@@ -9,9 +9,8 @@ const Nav = () => {
                 <div className='apple-icon'>
                     <img src="public\navbar-icons\apple.png" alt="" />
                 </div>
-
                 <div className="nav-item">
-                    <p>Infinity Tech</p>
+                    <p>Anant-Dir</p>
                 </div>
                 <div className="nav-item">
                     <p>File</p>
