@@ -1,54 +1,63 @@
-main {
-    position: relative;
-    overflow: hidden;
-    width: 100vw;
-    height: 100vh;
+
+.window_frame {
+  z-index: 100;
 }
 
 .window {
-    border-radius: 1rem;
-    overflow: hidden;
-    background: rgba(20, 20, 20, 0.72);
-    border: 1px solid rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(18px);
+  height: 100%;
+  min-height: 0;
+  border-radius: 1rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background: rgba(20, 20, 20, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(18px);
+  color: white;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
+}
+
+.window_titlebar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  height: 2.2rem;
+  padding-inline: 0.9rem;
+  cursor: move;
+  background: rgba(255, 255, 255, 0.08);
+  flex-shrink: 0;
+  .red_dot {
+    background-color: red;
+  }
+  .yellow_dot {
+    background: yellow;
+  }
+  .green_dot {
+    background: rgb(4, 255, 4);
+  }
+  .text {
     color: white;
-    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
-    z-index: 100;
+  }
 }
 
-.window__titlebar {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    height: 2.2rem;
-    padding-inline: 0.9rem;
-    cursor: move;
-    background: rgba(255, 255, 255, 0.08);
-    .red_dot{
-        background-color: red;
-    }
-    .yellow_dot{
-        background: yellow;
-    }
-    .green_dot{
-        background: rgb(4, 255, 4);
-    }
-    .text{
-        color: white;
-    }
+.window_dot {
+  width: 0.8rem;
+  height: 0.8rem;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 
-.window__dot {
-    width: 0.8rem;
-    height: 0.8rem;
-    border-radius: 999px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.window__body {
-    padding: 1rem;
-    line-height: 1.6;
+.window_body {
+  padding: 1rem;
+  line-height: 1.6;
+  min-height: 0;
+  flex: 1 1 auto;
+  overflow-y: auto;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+  // background: rgba(255, 0, 0, 0.457);
 }

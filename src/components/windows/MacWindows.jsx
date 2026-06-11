@@ -3,27 +3,29 @@ import { Rnd } from 'react-rnd'
 import './window.scss'
 
 
-const MacWindows = () => {
+const MacWindows = ({ children }) => {
     return (
         <Rnd
-            className="window"
+            className="window_frame"
             default={{
                 x: 120,
-                y: 120,
-                width: 420,
-                height: 240,
+                y: 60,
+                width: 820,
+                height: 520,
             }}
             bounds="parent"
-            dragHandleClassName="window__titlebar"
+            dragHandleClassName="window_titlebar"
         >
-            <div className="window__titlebar">
-                <span className="window__dot red_dot" />
-                <span className="window__dot yellow_dot" />
-                <span className="window__dot green_dot" />
-                <span className='text'>Anant-Dir</span>
-            </div>
-            <div className="window__body">
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores enim recusandae quod blanditiis corporis, provident dolor perspiciatis consectetur molestias, porro ipsam earum, est exercitationem odit.</p>
+            <div className="window">
+                <div className="window_titlebar">
+                    <span className="window_dot red_dot" />
+                    <span className="window_dot yellow_dot" />
+                    <span className="window_dot green_dot" />
+                    <span className='text'>Anant-Dir-SSA</span>
+                </div>
+                <div className="window_body">
+                    {children}
+                </div>
             </div>
         </Rnd>
     );

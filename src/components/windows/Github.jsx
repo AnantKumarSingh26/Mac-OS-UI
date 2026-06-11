@@ -26,8 +26,8 @@ const GitCard=({project})=>{
             </div>
 
             <div className="card-actions">
-                <a href={repolink} target='_blank' className="btn btn primary">Code</a>
-                <a href={demolink} target='_blank' className="btn btn-secondry">Demo</a>
+                <a href={repolink} target='_blank' className="btn btn-primary">Code</a>
+                <a href={demolink} target='_blank' className="btn btn-secondary">Demo</a>
             </div>
         </div>
     )
