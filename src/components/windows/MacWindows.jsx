@@ -20,6 +20,7 @@ const MacWindows = () => {
                 <span className="window__dot red_dot" />
                 <span className="window__dot yellow_dot" />
                 <span className="window__dot green_dot" />
+                <span className='text'>Anant-Dir</span>
             </div>
             <div className="window__body">
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores enim recusandae quod blanditiis corporis, provident dolor perspiciatis consectetur molestias, porro ipsam earum, est exercitationem odit.</p>

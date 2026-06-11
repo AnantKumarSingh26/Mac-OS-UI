@@ -1,0 +1,422 @@
+
+{
+  "repositories": [
+    {
+      "id": 1,
+      "name": "AlienBlasters",
+      "image": "https://picsum.photos/seed/1/300/200",
+      "description": "Game project with arcade-style gameplay mechanics",
+      "tags": ["Game", "Entertainment"],
+      "repolink": "https://github.com/AnantKumarSingh26/AlienBlasters",
+      "demolink": null
+    },
+    {
+      "id": 2,
+      "name": "AuthMethodsDioApi",
+      "image": "https://picsum.photos/seed/2/300/200",
+      "description": "Flutter Authentication App with Firebase. Cross-platform app offering complete user authentication with Firebase, modern UI, smooth animations, email/password and Google Sign-In support.",
+      "tags": ["Flutter", "Authentication", "Firebase", "Dart"],
+      "repolink": "https://github.com/AnantKumarSingh26/AuthMethodsDioApi",
+      "demolink": null
+    },
+    {
+      "id": 3,
+      "name": "Axios-Router-Context-Mini-Project",
+      "image": "https://picsum.photos/seed/3/300/200",
+      "description": "Small React project demonstrating Axios, UseState, UseEffect, RouterDOM, and ContextAPI",
+      "tags": ["React", "JavaScript", "Axios", "ContextAPI"],
+      "repolink": "https://github.com/AnantKumarSingh26/Axios-Router-Context-Mini-Project",
+      "demolink": null
+    },
+    {
+      "id": 4,
+      "name": "BloomFi",
+      "image": "https://picsum.photos/seed/4/300/200",
+      "description": "Fintech-inspired web application with clean UI and modular architecture. Features dashboard components for capital tracking, investor views, and asset management.",
+      "tags": ["React", "Tailwind CSS", "Fintech", "Dashboard"],
+      "repolink": "https://github.com/AnantKumarSingh26/BloomFi",
+      "demolink": null
+    },
+    {
+      "id": 5,
+      "name": "Cohort",
+      "image": "https://picsum.photos/seed/5/300/200",
+      "description": "Educational cohort learning materials and resources",
+      "tags": ["CSS", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/Cohort",
+      "demolink": null
+    },
+    {
+      "id": 6,
+      "name": "cohort-2-react",
+      "image": "https://picsum.photos/seed/6/300/200",
+      "description": "React learning materials from Sheriyans coding bootcamp",
+      "tags": ["React", "Learning", "JavaScript"],
+      "repolink": "https://github.com/AnantKumarSingh26/cohort-2-react",
+      "demolink": null
+    },
+    {
+      "id": 7,
+      "name": "Context-Api",
+      "image": "https://picsum.photos/seed/7/300/200",
+      "description": "React Context API demonstration and learning project (C-81-83)",
+      "tags": ["React", "Context API", "State Management"],
+      "repolink": "https://github.com/AnantKumarSingh26/Context-Api",
+      "demolink": null
+    },
+    {
+      "id": 8,
+      "name": "CSS-Cheat-Sheet",
+      "image": "https://picsum.photos/seed/8/300/200",
+      "description": "Comprehensive CSS reference and cheat sheet for web developers",
+      "tags": ["CSS", "Web Development", "Reference"],
+      "repolink": "https://github.com/AnantKumarSingh26/CSS-Cheat-Sheet",
+      "demolink": null
+    },
+    {
+      "id": 9,
+      "name": "Currency-convertor",
+      "image": "https://picsum.photos/seed/9/300/200",
+      "description": "Currency conversion utility built in C++",
+      "tags": ["C++", "Utility", "Finance"],
+      "repolink": "https://github.com/AnantKumarSingh26/Currency-convertor",
+      "demolink": null
+    },
+    {
+      "id": 10,
+      "name": "Digital-Verse",
+      "image": "https://picsum.photos/seed/10/300/200",
+      "description": "Robust Movie & TV Show Discovery App built with Flutter. Features search, filtering by trending/popular/upcoming, offline favorites, dark mode, and hero animations using TVMaze API.",
+      "tags": ["Flutter", "Dart", "Movies", "API Integration", "Clean Architecture"],
+      "repolink": "https://github.com/AnantKumarSingh26/Digital-Verse",
+      "demolink": null
+    },
+    {
+      "id": 11,
+      "name": "epadhai",
+      "image": "https://picsum.photos/seed/11/300/200",
+      "description": "Educational study application built with Flutter",
+      "tags": ["Flutter", "Education", "Learning"],
+      "repolink": "https://github.com/AnantKumarSingh26/epadhai",
+      "demolink": null
+    },
+    {
+      "id": 12,
+      "name": "Fit",
+      "image": "https://picsum.photos/seed/12/300/200",
+      "description": "Web application promoting fitness and health for Fit India initiative",
+      "tags": ["JavaScript", "Fitness", "Health", "Web App"],
+      "repolink": "https://github.com/AnantKumarSingh26/Fit",
+      "demolink": null
+    },
+    {
+      "id": 13,
+      "name": "Horizon-Courts",
+      "image": "https://picsum.photos/seed/13/300/200",
+      "description": "Sports courts website with clean web design and intuitive user experience reflecting dynamic spirit and premium feel.",
+      "tags": ["SCSS", "Web Design", "Sports"],
+      "repolink": "https://github.com/AnantKumarSingh26/Horizon-Courts",
+      "demolink": null
+    },
+    {
+      "id": 14,
+      "name": "Hunger",
+      "image": "https://picsum.photos/seed/14/300/200",
+      "description": "Web project related to hunger/food initiative",
+      "tags": ["HTML", "Web Development"],
+      "repolink": "https://github.com/AnantKumarSingh26/Hunger",
+      "demolink": null
+    },
+    {
+      "id": 15,
+      "name": "Insta-Clone",
+      "image": "https://picsum.photos/seed/15/300/200",
+      "description": "Instagram clone project demonstrating social media features",
+      "tags": ["C++", "Social Media", "UI Clone"],
+      "repolink": "https://github.com/AnantKumarSingh26/Insta-Clone",
+      "demolink": null
+    },
+    {
+      "id": 16,
+      "name": "java",
+      "image": "https://picsum.photos/seed/16/300/200",
+      "description": "Collection of Java programs and projects covering core concepts, problem-solving, and practical implementations",
+      "tags": ["Java", "Programming", "DSA"],
+      "repolink": "https://github.com/AnantKumarSingh26/java",
+      "demolink": null
+    },
+    {
+      "id": 17,
+      "name": "Javascript-Thapa",
+      "image": "https://picsum.photos/seed/17/300/200",
+      "description": "JavaScript learning materials from Thapa Technical bootcamp",
+      "tags": ["JavaScript", "Learning", "Web Development"],
+      "repolink": "https://github.com/AnantKumarSingh26/Javascript-Thapa",
+      "demolink": null
+    },
+    {
+      "id": 18,
+      "name": "localStroage-X-Axios",
+      "image": "https://picsum.photos/seed/18/300/200",
+      "description": "Project demonstrating localStorage and Axios integration in JavaScript",
+      "tags": ["JavaScript", "LocalStorage", "Axios"],
+      "repolink": "https://github.com/AnantKumarSingh26/localStroage-X-Axios",
+      "demolink": null
+    },
+    {
+      "id": 19,
+      "name": "Login",
+      "image": "https://picsum.photos/seed/19/300/200",
+      "description": "Login Page UI design and implementation",
+      "tags": ["C++", "UI Design", "Authentication"],
+      "repolink": "https://github.com/AnantKumarSingh26/Login",
+      "demolink": null
+    },
+    {
+      "id": 20,
+      "name": "Mac-OS-UI",
+      "image": "https://picsum.photos/seed/20/300/200",
+      "description": "macOS user interface design recreation",
+      "tags": ["JavaScript", "UI Design", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/Mac-OS-UI",
+      "demolink": null
+    },
+    {
+      "id": 21,
+      "name": "Notes-App",
+      "image": "https://picsum.photos/seed/21/300/200",
+      "description": "Desktop application for creating and managing notes",
+      "tags": ["C++", "Productivity", "Desktop App"],
+      "repolink": "https://github.com/AnantKumarSingh26/Notes-App",
+      "demolink": null
+    },
+    {
+      "id": 22,
+      "name": "Personal-Dashboard",
+      "image": "https://picsum.photos/seed/22/300/200",
+      "description": "Sleek, responsive Personal Productivity Dashboard featuring Pomodoro timer, To-Do list, 18-hour planner, live weather updates, and daily motivation. Built with Vanilla JS and LocalStorage.",
+      "tags": ["HTML", "CSS", "JavaScript", "Productivity", "Weather API"],
+      "repolink": "https://github.com/AnantKumarSingh26/Personal-Dashboard",
+      "demolink": null
+    },
+    {
+      "id": 23,
+      "name": "React-Cards",
+      "image": "https://picsum.photos/seed/23/300/200",
+      "description": "React project built to practice map() and arrow functions with card components",
+      "tags": ["React", "JavaScript", "Learning"],
+      "repolink": "https://github.com/AnantKumarSingh26/React-Cards",
+      "demolink": null
+    },
+    {
+      "id": 24,
+      "name": "React-CDN",
+      "image": "https://picsum.photos/seed/24/300/200",
+      "description": "Landing page built with React CDN and ReactDOM without build tools",
+      "tags": ["React", "SCSS", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/React-CDN",
+      "demolink": null
+    },
+    {
+      "id": 25,
+      "name": "React-Router-DOM",
+      "image": "https://picsum.photos/seed/25/300/200",
+      "description": "React Router DOM implementation and learning project",
+      "tags": ["React", "Router", "Navigation"],
+      "repolink": "https://github.com/AnantKumarSingh26/React-Router-DOM",
+      "demolink": null
+    },
+    {
+      "id": 26,
+      "name": "Redesigned-Padhai",
+      "image": "https://picsum.photos/seed/26/300/200",
+      "description": "Flutter-based student learning platform connecting students with courses. Features dashboard for tracking progress, course catalog, token system, user profiles, and Firebase backend.",
+      "tags": ["Flutter", "Dart", "Education", "Firebase"],
+      "repolink": "https://github.com/AnantKumarSingh26/Redesigned-Padhai",
+      "demolink": null
+    },
+    {
+      "id": 27,
+      "name": "Resting-Cars",
+      "image": "https://picsum.photos/seed/27/300/200",
+      "description": "Simple web page showcasing nighttime car parking with gradient text and styled button",
+      "tags": ["CSS", "Web Design", "HTML"],
+      "repolink": "https://github.com/AnantKumarSingh26/Resting-Cars",
+      "demolink": null
+    },
+    {
+      "id": 28,
+      "name": "Riverpod",
+      "image": "https://picsum.photos/seed/28/300/200",
+      "description": "Learning project for Riverpod state management solution",
+      "tags": ["Riverpod", "State Management", "Flutter"],
+      "repolink": "https://github.com/AnantKumarSingh26/Riverpod",
+      "demolink": null
+    },
+    {
+      "id": 29,
+      "name": "S-quiz",
+      "image": "https://picsum.photos/seed/29/300/200",
+      "description": "Dynamic quiz application designed to challenge knowledge, enhance learning, and provide engaging quiz experience with customizable features",
+      "tags": ["C++", "Education", "Quiz", "Interactive"],
+      "repolink": "https://github.com/AnantKumarSingh26/S-quiz",
+      "demolink": null
+    },
+    {
+      "id": 30,
+      "name": "Self_Info",
+      "image": "https://picsum.photos/seed/30/300/200",
+      "description": "Personal documentation repository and self-information portfolio",
+      "tags": ["CSS", "Portfolio", "Personal"],
+      "repolink": "https://github.com/AnantKumarSingh26/Self_Info",
+      "demolink": null
+    },
+    {
+      "id": 31,
+      "name": "Shoe-App",
+      "image": "https://picsum.photos/seed/31/300/200",
+      "description": "Sleek Flutter-based shopping app for shoes with clean UI and modular structure. Perfect for learning or expanding into full e-commerce experience.",
+      "tags": ["Flutter", "E-commerce", "Shopping", "Dart"],
+      "repolink": "https://github.com/AnantKumarSingh26/Shoe-App",
+      "demolink": null
+    },
+    {
+      "id": 32,
+      "name": "Social",
+      "image": "https://picsum.photos/seed/32/300/200",
+      "description": "Social media platform web page built with HTML and CSS",
+      "tags": ["HTML", "CSS", "Social Media", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/Social",
+      "demolink": null
+    },
+    {
+      "id": 33,
+      "name": "SQuiz",
+      "image": "https://picsum.photos/seed/33/300/200",
+      "description": "Dynamic quiz application for knowledge seekers with customizable features and interactive experience",
+      "tags": ["Flutter", "Dart", "Quiz", "Education"],
+      "repolink": "https://github.com/AnantKumarSingh26/SQuiz",
+      "demolink": null
+    },
+    {
+      "id": 34,
+      "name": "symposium",
+      "image": "https://picsum.photos/seed/34/300/200",
+      "description": "Collaborative web project built to master professional development. Features Git version control, pull requests, and modular CSS/HTML design demonstrating teamwork and responsive architecture.",
+      "tags": ["CSS", "HTML", "Collaborative", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/symposium",
+      "demolink": null
+    },
+    {
+      "id": 35,
+      "name": "Team-Sync",
+      "image": "https://picsum.photos/seed/35/300/200",
+      "description": "Project for Content Management System (CMS) with team collaboration features",
+      "tags": ["JavaScript", "CMS", "Project Management"],
+      "repolink": "https://github.com/AnantKumarSingh26/Team-Sync",
+      "demolink": null
+    },
+    {
+      "id": 36,
+      "name": "Tic-Tac-Toe",
+      "image": "https://picsum.photos/seed/36/300/200",
+      "description": "Classic Tic-Tac-Toe game implementation",
+      "tags": ["CSS", "Game", "Web Game"],
+      "repolink": "https://github.com/AnantKumarSingh26/Tic-Tac-Toe",
+      "demolink": null
+    },
+    {
+      "id": 37,
+      "name": "TodoApp",
+      "image": "https://picsum.photos/seed/37/300/200",
+      "description": "Beautifully designed Flutter app for managing daily tasks with modern UI, calendar view, and persistent local storage. Supports Android, iOS, Web, and Desktop.",
+      "tags": ["Flutter", "Productivity", "Dart", "Cross-platform"],
+      "repolink": "https://github.com/AnantKumarSingh26/TodoApp",
+      "demolink": null
+    },
+    {
+      "id": 38,
+      "name": "Traveler-Guide",
+      "image": "https://picsum.photos/seed/38/300/200",
+      "description": "Flutter-based mobile application designed to assist travelers with essential location insights, curated recommendations, and real-time updates. Integrates Firebase for authentication and data management.",
+      "tags": ["Flutter", "Travel", "Firebase", "Dart"],
+      "repolink": "https://github.com/AnantKumarSingh26/Traveler-Guide",
+      "demolink": null
+    },
+    {
+      "id": 39,
+      "name": "useeeffect_demo",
+      "image": "https://picsum.photos/seed/39/300/200",
+      "description": "React useEffect hook demonstration and learning project",
+      "tags": ["React", "Hooks", "JavaScript", "Learning"],
+      "repolink": "https://github.com/AnantKumarSingh26/useeeffect_demo",
+      "demolink": null
+    },
+    {
+      "id": 40,
+      "name": "User-Management",
+      "image": "https://picsum.photos/seed/40/300/200",
+      "description": "Flutter app for managing users with features like adding, editing, deleting, and searching. Uses Riverpod for state management and Sqflite for local database storage with clean architecture.",
+      "tags": ["Flutter", "Dart", "Database", "State Management"],
+      "repolink": "https://github.com/AnantKumarSingh26/User-Management",
+      "demolink": null
+    },
+    {
+      "id": 41,
+      "name": "Weather_App",
+      "image": "https://picsum.photos/seed/41/300/200",
+      "description": "Flutter-based mobile application delivering real-time weather updates with clean UI. Features hourly forecasts, additional weather info, and cross-platform support.",
+      "tags": ["Flutter", "Weather", "API", "Dart", "Mobile App"],
+      "repolink": "https://github.com/AnantKumarSingh26/Weather_App",
+      "demolink": null
+    },
+    {
+      "id": 42,
+      "name": "Web-Dev",
+      "image": "https://picsum.photos/seed/42/300/200",
+      "description": "Collection of beginner-friendly practice projects covering core web development concepts like HTML, CSS, JavaScript, and responsive design. Designed to strengthen fundamentals.",
+      "tags": ["HTML", "CSS", "JavaScript", "Learning", "Web Design"],
+      "repolink": "https://github.com/AnantKumarSingh26/Web-Dev",
+      "demolink": null
+    },
+    {
+      "id": 43,
+      "name": "Web-Padhai",
+      "image": "https://picsum.photos/seed/43/300/200",
+      "description": "Web-based learning materials and educational content platform",
+      "tags": ["JavaScript", "Education", "Web Development"],
+      "repolink": "https://github.com/AnantKumarSingh26/Web-Padhai",
+      "demolink": null
+    },
+    {
+      "id": 44,
+      "name": "Zero_Hunger",
+      "image": "https://picsum.photos/seed/44/300/200",
+      "description": "Web project related to Zero Hunger initiative addressing food security",
+      "tags": ["HTML", "Web Development", "Social Impact"],
+      "repolink": "https://github.com/AnantKumarSingh26/Zero_Hunger",
+      "demolink": null
+    }
+  ],
+  "summary": {
+    "total_repositories": 43,
+    "languages": {
+      "JavaScript": 10,
+      "Dart": 8,
+      "CSS": 8,
+      "C++": 8,
+      "HTML": 5,
+      "Java": 1,
+      "SCSS": 2
+    },
+    "project_categories": {
+      "Mobile Apps (Flutter)": 11,
+      "Web Development": 18,
+      "Games & Entertainment": 3,
+      "Educational Platforms": 4,
+      "Productivity Tools": 4,
+      "Learning Resources": 7
+    }
+  }
+}
+
