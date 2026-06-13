@@ -1,0 +1,144 @@
+
+========================================================================
+                       PROFESSIONAL DEVELOPER PROFILE                   
+========================================================================
+
+------------------------------------------------------------------------
+1. GENERAL INFORMATION
+------------------------------------------------------------------------
+Name               : Anant Kumar Singh
+GitHub Username    : AnantKumarSingh26
+Primary Role       : Cross-Platform Mobile & Web Developer
+Core Philosophy    : Building clean, responsive architectures with solid
+                     state management and intuitive user experiences.
+
+------------------------------------------------------------------------
+2. TECHNICAL SKILLS & EXPERTISE
+------------------------------------------------------------------------
+Core Programming Languages:
+  * JavaScript (Advanced / Core Architecture)
+  * Dart (Advanced / Cross-Platform App Development)
+  * C++ (Data Structures, Algorithms & Desktop Utilities)
+  * CSS / SCSS (Responsive Layouts, Variables, Mixins & Animations)
+  * HTML5 (Semantic Web Structures & SEO Fundamentals)
+  * Java (Core Concepts & OOP Implementations)
+
+Frameworks, Libraries & Developer Tools:
+  * Mobile UI Framework     : Flutter
+  * Mobile State Management : Riverpod, Provider
+  * Web Frontend Framework  : React
+  * Web Styling Frameworks  : Tailwind CSS, Vanilla CSS/SCSS
+  * Web Utilities & Routing : Axios, React Router DOM, Context API
+  * Backend Integration     : Firebase (Auth, Firestore, Cloud Functions)
+  * Local Databases         : Sqflite, LocalStorage
+  * Version Control         : Git, GitHub Workflow (PRs, Code Reviews)
+
+------------------------------------------------------------------------
+3. PROJECT CATEGORIES & DISTRIBUTION
+------------------------------------------------------------------------
+Total Open-Source Repositories: 43
+
+Development Breakdown:
+  * Web Development          : 18 Projects
+  * Mobile Apps (Flutter)    : 11 Projects
+  * Learning Resources       : 7 Repositories
+  * Educational Platforms    : 4 Projects
+  * Productivity Tools       : 4 Utilities
+  * Games & Entertainment    : 3 Projects
+
+Language Metrics (By Project Count):
+  * JavaScript : 10
+  * Dart       : 8
+  * CSS        : 8
+  * C++        : 8
+  * HTML       : 5
+  * SCSS       : 2
+  * Java       : 1
+
+------------------------------------------------------------------------
+4. FEATURED PROJECT PORTFOLIO
+------------------------------------------------------------------------
+
+[MOBILE APPLICATIONS - FLUTTER & DART]
+
+* AuthMethodsDioApi
+  - Description : Cross-platform authentication app offering complete user 
+                  sign-in with Firebase backend. Features modern UI, smooth 
+                  animations, email/password validation, and Google Sign-In.
+  - Tags        : Flutter, Authentication, Firebase, Dart
+  - Link        : https://github.com/AnantKumarSingh26/AuthMethodsDioApi
+
+* Digital-Verse
+  - Description : Robust Movie & TV Show Discovery App built using the TVMaze API. 
+                  Includes clean architecture, search/filter algorithms for trending 
+                  or upcoming titles, offline favorites support, and hero animations.
+  - Tags        : Flutter, Dart, Movies, API Integration, Clean Architecture
+  - Link        : https://github.com/AnantKumarSingh26/Digital-Verse
+
+* Redesigned-Padhai
+  - Description : Student-centric learning platform connecting users with digital courses. 
+                  Implements progress tracking dashboards, a dedicated token economy, 
+                  user profile management, and a Firebase architecture.
+  - Tags        : Flutter, Dart, Education, Firebase
+  - Link        : https://github.com/AnantKumarSingh26/Redesigned-Padhai
+
+* User-Management
+  - Description : Full CRUD application built to manage user profiles. Utilizes 
+                  Riverpod for scalable state management and Sqflite for persistent 
+                  on-device database management under clean architecture principles.
+  - Tags        : Flutter, Dart, Database, State Management
+  - Link        : https://github.com/AnantKumarSingh26/User-Management
+
+
+[WEB DEVELOPMENT - REACT & MODERN JAVASCRIPT]
+
+* BloomFi
+  - Description : Fintech-inspired dashboard web app focusing on asset management 
+                  and capital tracking. Built with a component-driven structure 
+                  emphasizing data visualization and executive layout metrics.
+  - Tags        : React, Tailwind CSS, Fintech, Dashboard
+  - Link        : https://github.com/AnantKumarSingh26/BloomFi
+
+* Personal-Dashboard
+  - Description : Sleek frontend productivity workstation containing a Pomodoro timer, 
+                  indexed To-Do manager, 18-hour day planner, live Weather API sync, 
+                  and strict state persistence handling using client-side storage.
+  - Tags        : HTML, CSS, JavaScript, Productivity, Weather API
+  - Link        : https://github.com/AnantKumarSingh26/Personal-Dashboard
+
+* Horizon-Courts
+  - Description : Premium sports court management and booking web layout optimized 
+                  with responsive modular SCSS compilation rules for complex device sizes.
+  - Tags        : SCSS, Web Design, Sports
+  - Link        : https://github.com/AnantKumarSingh26/Horizon-Courts
+
+* Axios-Router-Context-Mini-Project
+  - Description : Demonstration project showcasing production-grade setups for state distribution,
+                  asynchronous API handling with interceptors, and client-side view routing.
+  - Tags        : React, JavaScript, Axios, ContextAPI
+  - Link        : https://github.com/AnantKumarSingh26/Axios-Router-Context-Mini-Project
+
+
+[SYSTEM UTILITIES & RECREATION - C++ & JAVA]
+
+* S-quiz
+  - Description : Interactive dynamic terminal-based quiz runner engine allowing 
+                  custom resource allocations and score tracking configurations.
+  - Tags        : C++, Education, Quiz, Interactive
+  - Link        : https://github.com/AnantKumarSingh26/S-quiz
+
+* Currency-convertor
+  - Description : Lightweight, high-performance financial exchange calculator parsing 
+                  data structures through optimized terminal threads.
+  - Tags        : C++, Utility, Finance
+  - Link        : https://github.com/AnantKumarSingh26/Currency-convertor
+
+* java
+  - Description : Core codebase ledger containing fundamental implementations of 
+                  Data Structures, Algorithms (DSA), and system troubleshooting concepts.
+  - Tags        : Java, Programming, DSA
+  - Link        : https://github.com/AnantKumarSingh26/java
+
+========================================================================
+                 Generated Profile Ledger - End of File                 
+========================================================================

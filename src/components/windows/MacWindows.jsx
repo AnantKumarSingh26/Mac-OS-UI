@@ -13,7 +13,7 @@ const MacWindows = ({ children }) => {
                 width: 820,
                 height: 520,
             }}
-            bounds="parent"
+            bounds="window"
             dragHandleClassName="window_titlebar"
         >
             <div className="window">
